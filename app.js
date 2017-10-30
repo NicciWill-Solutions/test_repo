@@ -1,0 +1,1 @@
+const myTeam = "Kayla and Nicci";
